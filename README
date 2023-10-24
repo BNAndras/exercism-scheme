@@ -2,7 +2,7 @@
 
 #+TITLE: Exercism Scheme Track
 #+AUTHOR: Jason Lewis
-[Configlet][https://github.com/exercism/scheme/actions/workflows/configlet.yml/badge.svg]]
+[[Configlet][https://github.com/exercism/scheme/actions/workflows/configlet.yml/badge.svg]]
 [[https://circleci.com/gh/akirak/emacs.d/tree/master][https://circleci.com/gh/akirak/emacs.d/tree/master.svg?style=svg]]
 Exercisms in scheme.
 
